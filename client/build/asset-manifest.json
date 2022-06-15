@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.861d7c09.chunk.css",
+    "main.js": "/static/js/main.d775bfc0.chunk.js",
+    "main.js.map": "/static/js/main.d775bfc0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4bef3b12.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4bef3b12.js.map",
+    "static/css/2.95258f03.chunk.css": "/static/css/2.95258f03.chunk.css",
+    "static/js/2.0564d9f0.chunk.js": "/static/js/2.0564d9f0.chunk.js",
+    "static/js/2.0564d9f0.chunk.js.map": "/static/js/2.0564d9f0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a438101b837895e48dfa0973150e5082.js": "/precache-manifest.a438101b837895e48dfa0973150e5082.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.95258f03.chunk.css.map": "/static/css/2.95258f03.chunk.css.map",
+    "static/css/main.861d7c09.chunk.css.map": "/static/css/main.861d7c09.chunk.css.map",
+    "static/js/2.0564d9f0.chunk.js.LICENSE.txt": "/static/js/2.0564d9f0.chunk.js.LICENSE.txt",
+    "static/media/LogoLight.png": "/static/media/LogoLight.4b905744.png",
+    "static/media/background.jpeg": "/static/media/background.e955dcfa.jpeg",
+    "static/media/edit-icon.png": "/static/media/edit-icon.666935f7.png",
+    "static/media/orAviv.jpeg": "/static/media/orAviv.a667a477.jpeg",
+    "static/media/remove.png": "/static/media/remove.9159494e.png",
+    "static/media/student.png": "/static/media/student.bae6a20a.png",
+    "static/media/warning.png": "/static/media/warning.91d7d73e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bef3b12.js",
+    "static/css/2.95258f03.chunk.css",
+    "static/js/2.0564d9f0.chunk.js",
+    "static/css/main.861d7c09.chunk.css",
+    "static/js/main.d775bfc0.chunk.js"
+  ]
+}
